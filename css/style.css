@@ -57,3 +57,20 @@
   background-color: rgba(0,0,0,.7);
   min-height: 200px;
 }
+
+/*
+  =========================================
+    #VIDEO-PLAY SECTION
+  =========================================
+*/
+#video-play {
+  background-image: url("../img/media.jpg");
+  background-position: 0 0;
+  background-attachment: fixed;
+}
+
+.dark-overlay-video-play {
+  background-color: rgba(0, 0, 0, 0.7);
+  height: 100%;
+  width: 100%;
+}
