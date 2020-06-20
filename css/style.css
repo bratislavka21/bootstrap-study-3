@@ -40,3 +40,20 @@
   background-position: center center;
   background-size: cover;
 }
+
+/*
+  =========================================
+    #HOME-HEADING SECTION
+  =========================================
+*/
+#home-heading {
+  background-attachment: fixed;
+  background-image: url("../img/lights.jpg");
+  background-position: 50% 50%;
+  min-height: 200px;
+}
+
+#home-heading .dark-overlay {
+  background-color: rgba(0,0,0,.7);
+  min-height: 200px;
+}
