@@ -106,3 +106,22 @@
 #page-footer .carousel-item {
   min-height: 120px;
 }
+
+/*
+  =========================================
+    SERVICES SECTION#FAQ
+  =========================================
+*/
+#faq .card {
+  border: 1px solid #444;
+}
+
+#faq a {
+  color: white;
+  text-decoration: none;
+}
+
+#faq .accordion .card {
+  background-color: #333;
+  color: white;
+}
